@@ -52,7 +52,7 @@ The project focuses on the **study and analysis of the resonance effect in RLC c
 
 ---
 
-### Key Contents
+## Key Contents
 
 The report is structured into:
 
