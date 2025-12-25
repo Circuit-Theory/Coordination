@@ -62,7 +62,7 @@ The report is structured into:
 
 ---
 
-## 1. RLC Series Circuit (Tuning)
+## 1. RLC Series Circuit
 
 **Theory:**  
 Analysis of the frequency at which the **inductive reactance (Xₗ)** and **capacitive reactance (Xc)** cancel each other out.
@@ -87,7 +87,7 @@ Where:
 
 ---
 
-## 2. RLC Parallel Circuit (Tuning)
+## 2. RLC Parallel Circuit
 
 - Theoretical solutions and **simulation results** for parallel RLC configurations.  
 - Detailed analysis provided in the report (pages 12–17).
