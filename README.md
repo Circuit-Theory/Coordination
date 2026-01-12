@@ -59,11 +59,18 @@ The project focuses on the **study and analysis of the resonance effect in RLC c
 
 ## Table of Contents
 
-| Section | Title          | Description                                    |
-|--------:|----------------|------------------------------------------------|
-| assign  | Assignment     | Contains assignments and tasks                 |
-| docs    | Documentation  | Project documentation, guides, and notes       |
-| multisim     | Multisim    | All souce multisim files implementing the circuits      |
+| Section | Folder | Description |
+|------:|--------|-------------|
+| 1 | `assign/` | Assignment material for the Circuit Theory course |
+| 1.1 | `assign/circuit theory rev2021_EXERCISE_4th.pdf` | Assignment description in English |
+| 1.2 | `assign/θεωρία κυκλωμάτων rev2021_ΑΣΚΗΣΗ_4η.pdf` | Assignment description in Greek |
+| 2 | `docs/` | Documentation on circuit coordination |
+| 2.1 | `docs/Coordination.pdf` | English documentation on coordination concepts |
+| 2.2 | `docs/Συντονισμός.pdf` | Greek documentation on coordination concepts |
+| 3 | `multisim/` | Circuit simulation files |
+| 3.1 | `multisim/CoordinationParallel.ms14` | Multisim file for parallel coordination circuit |
+| 3.2 | `multisim/CoordinationSerial.ms14` | Multisim file for series coordination circuit |
+| 4 | `README.md` | Repository overview and usage instructions |
 
 ---
 
