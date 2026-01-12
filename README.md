@@ -48,8 +48,7 @@
 
 ---
 
-## Project Overview
-
+# Project Overview
 
 This document is a laboratory report for the **Circuit Theory** course within the **Department of Informatics and Computer Engineering** at the **University of West Attica**.
 
@@ -130,7 +129,7 @@ The experimental work utilized the following tools:
 
 ---
 
-## Installation Guide
+# Installation Guide
 
 Clone this repository to your local machine. 
 ```bash
