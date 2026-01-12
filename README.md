@@ -129,9 +129,67 @@ The experimental work utilized the following tools:
 
 ---
 
-# Installation Guide
+# Installation & Setup Guide
 
-Clone this repository to your local machine. 
+This repository contains laboratory simulations and analysis for **Circuit Theory**, focusing on **RLC series and parallel circuits** and their resonance behavior.  
+
+All simulations are implemented in **NI Multisim**.
+
+---
+
+## Prerequisites
+
+### Required Software
+- **NI Multisim 14** (or later)  
+  Ensure your system meets the requirements for running `.ms14` files.  
+  Download from [NI Multisim](https://www.ni.com/en-us/shop/electronic-test-instrumentation/application-software-for-electronic-test-and-instrumentation-category/what-is-multisim.html).
+
+### Optional Software
+- **PDF Viewer** for documentation: `Coordination.pdf` / `Συντονισμός.pdf`
+
+---
+
+## Installation Steps
+
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/Circuit-Theory/Coordination.git
-``` 
+```
+
+### 2. Navigate to Project Directory
+```bash
+cd Coordination
+```
+Ensure the following folder structure exists:
+```bash
+assign/
+docs/
+multisim/
+```
+
+---
+
+## Multisim Simulation Files
+
+The repository includes two key simulation files:
+
+| File  | Description |
+|------:|-------------|
+| multisim/CoordinationSerial.ms14 |  RLC series circuit simulation |
+| multisim/CoordinationParallel.ms14 |  RLC parallel circuit simulation |
+
+
+### 3. Open a Simulation in Multisim
+- Launch NI Multisim.
+- Select File → Open.
+- Navigate to the `multisim/` folder.
+- Open the desired `.ms14` file (series or parallel circuit).
+- Wait for the circuit topology to load.
+
+---
+
+## Open the Documentation
+1. Navigate to the `docs/` directory
+2. Open the report corresponding to your preferred language:
+    - English: `Coordination.pdf`
+    - Greek: `Συντονισμός.pdf`
