@@ -39,7 +39,7 @@
   Co-supervisor: Georgios Antoniou, Laboratory Teaching Staff
 </p>
 <p align="center">
-  <a href="https://ice.uniwa.gr/en/emd_person/georgios-antoniou/" target="_blank">UNIWA Profile</a> ·
+  <a href="https://ice.uniwa.gr/en/emd_person/georgios-antoniou/" target="_blank">UNIWA Profile</a>
 </p>
 
 <p align="center">
