@@ -24,14 +24,29 @@
 </p>
 
 <p align="center">
-  Supervisor: Christos Kampouris, Laboratory Teaching Staff<br>
+  <a href="https://github.com/Ath21" target="_blank">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/vasilis-athanasiou-7036b53a4/" target="_blank">LinkedIn</a>
+</p>
+
+<p align="center">
+  Supervisor: Christos Kampouris, Laboratory Teaching Staff
+</p>
+<p align="center">
+  <a href="https://www.syros.aegean.gr/en/staff/research-staff/phd-candidates/christos-kampouris" target="_blank">UNIWA Profile</a>
+</p>
+
+<p align="center">
   Co-supervisor: Georgios Antoniou, Laboratory Teaching Staff
+</p>
+<p align="center">
+  <a href="https://ice.uniwa.gr/en/emd_person/georgios-antoniou/" target="_blank">UNIWA Profile</a> ·
 </p>
 
 <p align="center">
   Athens, June 2022
 </p>
 
+---
 
 ## Project Overview
 
