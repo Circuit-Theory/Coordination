@@ -109,7 +109,7 @@ The project focuses on the **study and analysis of the resonance effect in RLC c
 |       3 | `multisim/`                                      | Circuit simulation files                          |
 |     3.1 | `multisim/CoordinationParallel.ms14`             | Multisim file for parallel coordination circuit   |
 |     3.2 | `multisim/CoordinationSerial.ms14`               | Multisim file for series coordination circuit     |
-|       4 | `README.md`                                      | Repository overview and usage instructions        |
+|       4 | `README.md`                                      | Repository overview                               |
 |       5 | `INSTALL.md`                                     | Usage instructions                                |
 
 ---
